@@ -1,12 +1,5 @@
 
-
-
-## PROJETO GLASSMORPHISM
-
-
-
-#Desenvolvido por Beatriz Araujo 
-# **▪▪▪  # Projeto de Site Responsivo🖌  ▪▪▪**
+# **▪▪▪  # PROJETO GLASSMORPHISM🖌  ▪▪▪**
 
 ### 📚Sobre
 
@@ -19,16 +12,10 @@ via: https://www.uplabs.com/posts/glassmorphism-header-concept
 <div align="center">
 --
 
+![mobile](https://user-images.githubusercontent.com/42151127/116769100-201e7e00-aa10-11eb-86c6-bfc429441001.gif)
 
 
 
-![Responsive](https://user-images.githubusercontent.com/42151127/115887766-a3e0d500-a428-11eb-9b29-b9b85dd6c520.gif)
-
-
-
-
-
-![mobile](https://user-images.githubusercontent.com/42151127/115887773-a5120200-a428-11eb-941c-d6df04ddc816.gif)
 
 </div>
 
